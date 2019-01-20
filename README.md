@@ -1,1 +1,1 @@
-# TinyGoogle-A-parralel-word-search-engine
+SEARCH ENGINE: Distributed computing using master-slave architecture 
